@@ -1,0 +1,16 @@
+.idea
+*.egg-info
+*.pyc
+*.swp
+*.crt
+*.key
+*.exe
+*.pem
+*.pyd
+*.DS_Store
+/caldera_agent/dist
+/caldera_agent/build
+__pycache__
+venv
+dist
+/caldera_agent/conf.yml
