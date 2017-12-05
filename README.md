@@ -24,7 +24,7 @@ The following are required to build the CALDERA Agent
  - setuptools (`pip install --upgrade setuptools`) 
  - [PyWin32 v.220](https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/) or later.
  - Windows Visual Studio 2015 (with Visual C++) OR [Visual C++ 2015 Build Tools](http://landinghub.visualstudio.com/visual-cpp-build-tools)
- - A special version of py2exe which should be provided with this source code
+ - A [special version of py2exe](https://github.com/mitre/caldera-py2exe).
 
 ### Building an .exe
 
